@@ -1,7 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-posttest-env.eba-wgz2p776.ap-northeast-2.elasticbeanstalk.com	TRUE	/	FALSE	1999999999	sessionid	absbmxdkulaf3jxmz4hgs0qow29o4rqs
-posttest-env.eba-wgz2p776.ap-northeast-2.elasticbeanstalk.com	TRUE	/	FALSE	1999999999	django_language	en
-posttest-env.eba-wgz2p776.ap-northeast-2.elasticbeanstalk.com	TRUE	/	FALSE	1999999999	csrftoken	s9UXYohPA4T7bVja1hvc8sl5gWQ4ESiRBc7BLOBlHpB86OzxiBkjEKGUYrbLKHkm
-posttest-env.eba-wgz2p776.ap-northeast-2.elasticbeanstalk.com	TRUE	/	FALSE	1999999999	SameSite	Lax
-
